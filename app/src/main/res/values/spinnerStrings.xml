@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+            <string name="firstOption">Strongly Agree</string>
+            <string name="secondOption">Somewhat Agree</string>
+            <string name="thirdOption">Neutral</string>
+            <string name="fourthOption">Somewhat Disagree</string>
+            <string name="fifthOption">Strongly Disagree</string>
+</resources>
